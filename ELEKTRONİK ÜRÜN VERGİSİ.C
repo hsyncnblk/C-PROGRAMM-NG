@@ -37,7 +37,7 @@ int main()
         printf("leptop'un vergisiz fiyti nedir : ");
         scanf("%d",&fiyat);
         sfiyat=fiyat*(0.18)+fiyat;
-        printf("\leptop'un vergili fiyati: %.3f \n",sfiyat );
+        printf("\nleptop'un vergili fiyati: %.3f \n",sfiyat );
         break;
 
     default:
